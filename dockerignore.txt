@@ -1,0 +1,16 @@
+# Khong copy nhung thu khong can vao image
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+storage/
+frontend/node_modules/
+frontend/.vite/
+data/
+*.log
+.env
+.DS_Store
+DEPLOY_HUONG_DAN.md
+config.frontend.example.js
+# LUU Y: KHONG ignore models/ va KHONG ignore frontend/dist
