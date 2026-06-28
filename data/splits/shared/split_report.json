@@ -1,0 +1,74 @@
+{
+  "data": "../data/annotated/drug.jsonl",
+  "seed": 42,
+  "train_ratio": 0.85,
+  "dev_ratio": 0.1,
+  "test_ratio": 0.05,
+  "files": {
+    "train": "../data/splits/shared/train.jsonl",
+    "dev": "../data/splits/shared/dev.jsonl",
+    "test": "../data/splits/shared/test.jsonl"
+  },
+  "stats": {
+    "train": {
+      "records": 2303,
+      "documents": 85,
+      "entities": 2793,
+      "labels": {
+        "DRUG": 782,
+        "CRIME_TIME": 298,
+        "PERSON": 371,
+        "CHARGE": 185,
+        "LEGAL_ARTICLE": 573,
+        "SENTENCE": 187,
+        "CRIME_LOC": 197,
+        "DRUG_WEIGHT": 200
+      }
+    },
+    "dev": {
+      "records": 264,
+      "documents": 10,
+      "entities": 366,
+      "labels": {
+        "CRIME_TIME": 33,
+        "DRUG": 72,
+        "CRIME_LOC": 27,
+        "LEGAL_ARTICLE": 74,
+        "PERSON": 55,
+        "CHARGE": 35,
+        "SENTENCE": 34,
+        "DRUG_WEIGHT": 36
+      }
+    },
+    "test": {
+      "records": 106,
+      "documents": 5,
+      "entities": 109,
+      "labels": {
+        "CRIME_TIME": 10,
+        "CRIME_LOC": 11,
+        "PERSON": 19,
+        "DRUG_WEIGHT": 8,
+        "DRUG": 18,
+        "CHARGE": 9,
+        "LEGAL_ARTICLE": 27,
+        "SENTENCE": 7
+      }
+    },
+    "all": {
+      "records": 2673,
+      "documents": 100,
+      "entities": 3268,
+      "labels": {
+        "DRUG": 872,
+        "CRIME_TIME": 341,
+        "PERSON": 445,
+        "CHARGE": 229,
+        "LEGAL_ARTICLE": 674,
+        "SENTENCE": 228,
+        "CRIME_LOC": 235,
+        "DRUG_WEIGHT": 244
+      }
+    }
+  }
+}
