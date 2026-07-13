@@ -161,4 +161,4 @@ PDF bản án → trích & cắt đoạn → gán nhãn bằng Doccano → gộp
 - **Đề tài:** Xây dựng hệ thống nhận diện thực thể có tên trong bản án hình sự ma túy
 - **Sinh viên thực hiện:** Đinh Quốc Bảo
 - **Giảng viên hướng dẫn:** ThS. Trần Phong Nhã
-- **Đơn vị:** Bộ môn Công nghệ Thông tin — Trường Đại học Giao thông Vận tải, Phân hiệu tại TP. Hồ Chí Minh
+- **Đơn vị:** Bộ môn Công nghệ Thông tin - Trường Đại học Giao thông Vận tải, Phân hiệu tại TP. Hồ Chí Minh
